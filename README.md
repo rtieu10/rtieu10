@@ -1,5 +1,6 @@
 ### Hi there 👋
-#### I'm currently working on learning JavaScript. 
+#### Pronouns: she/her
+##### I'm currently working on learning JavaScript. 
 <!--
 **rtieu10/rtieu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
