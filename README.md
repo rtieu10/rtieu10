@@ -1,6 +1,6 @@
 ### Hi there, I'm Rachel 👋
 #### Pronouns: she/her
-##### I'm currently working interning @ Bank of America as a Global Technology & Operations Analyst
+##### I'm currently interning @ Bank of America as a Global Technology & Operations Analyst
 <!--
 **rtieu10/rtieu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
