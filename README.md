@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Rachel 👋
 #### Pronouns: she/her
 ##### I'm currently working on learning JavaScript. 
 <!--
